@@ -12,7 +12,7 @@ import {
   writeCart,
   type Quote,
 } from "./cart"
-import { CATEGORY_LABEL, MERCHANTS, offerById, type Offer } from "./catalog"
+import { CATEGORY_LABEL, MERCHANTS, offerById, CATALOG, type Offer } from "./catalog"
 import { loadSeedStorefronts } from "./storefronts"
 import { MAX_ROWS } from "./merchant"
 import { buildListingReport, categoryLabel, importPayableLink, publishStore, readStores, removeStore, loadPublishedStores, type ImportReport } from "./merchant-ui"
