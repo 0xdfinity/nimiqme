@@ -333,7 +333,7 @@ export const CATALOG: Offer[] = [
     category: "home",
     tags: ["mug", "mugs", "ceramic", "kitchen", "home", "gift", "set"],
     blurb: "Four stoneware mugs in chalk white, dishwasher safe.",
-    imageUrl: "https://images.unsplash.com/photo-1514228742587-6b1558fCCA3d?auto=format&fit=crop&w=900&q=85",
+    imageUrl: "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?auto=format&fit=crop&w=900&q=85",
   },
   {
     id: "of-601",
