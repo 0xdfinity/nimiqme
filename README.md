@@ -4,8 +4,6 @@ NimiqMe is an AI shopping agent for Nimiq Pay. You describe what you want, the a
 
 Website: http://nimiqme.vercel.app
 
-walkthrough video: https://youtu.be/AwgmhofP25w?si=ZmiQbbT0ENsPsAPM
-
 ## Features
 
 - Plain-language shopping: budget, category and product words are read locally against a curated catalog of offers from several merchants.
