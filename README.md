@@ -2,7 +2,9 @@
 
 NimiqMe is an AI shopping agent for Nimiq Pay. You describe what you want, the agent compares merchant offers and builds one cart, and you approve a single NIM payment in your wallet. An order is only shown as paid once the transaction is verified by Nimiq mainnet RPC.
 
-Website: see `website/` (static landing page, deployable to Vercel).
+Website: http://nimiqme.vercel.app
+
+walkthrough video: https://youtu.be/AwgmhofP25w?si=ZmiQbbT0ENsPsAPM
 
 ## Features
 
